@@ -1,0 +1,27 @@
+Connections on Facebook {
+   Sun Jun 11 05:04:39 EDT 2017: Ralph Goodmann (RGoodmann45) <--> Jeremy Renner (JRenner987)
+   Thu Oct 11 05:04:39 EDT 2018: Ralph Goodmann (RGoodmann23) <--> Jeremy Renner (JRenner987)
+   Thu Jan 10 14:14:14 EST 2019: Catherine Candid (CCandid123) <--> Patty Smith (PSmith4567)
+}
+Connections on Instagram {
+   Mon Feb 05 12:42:00 EST 2018: Bennedict Cornfield (BCornfield654) <--> Ralph Goodmann (RGoodmann23)
+   Tue Aug 21 21:00:00 EDT 2018: Garfield Smith (GSmith123456) <--> Patty Smith (PSmith4567)
+   Wed Jan 09 04:40:00 EST 2019: Catherine Candid (CCandid123) <--> Ralph Goodmann (RGoodmann23)
+   Sun May 19 00:21:43 EDT 2019: Ralph Goodmann (RGoodmann23) <--> Garfield Smith (GSmith123456)
+}
+Connections on LinkedIn {
+   Fri Oct 13 12:12:00 EDT 2017: Ralph Goodmann (RGoodmann23) <--> Ralph Goodmann (RGoodmann45)
+   Wed Aug 12 21:00:00 EDT 2020: Garfield Smith (GSmith123456) <--> Patty Smith (PSmith4567)
+}
+Connections on Telegram {
+   Sun Aug 05 04:42:00 EDT 2018: Bennedict Cornfield (BCornfield654) <--> Ralph Goodmann (RGoodmann23)
+}
+Connections on Twitch {
+   Wed May 17 18:20:21 EDT 2017: Ralph Goodmann (RGoodmann45) <--> Garfield Smith (GSmith123456)
+   Fri Nov 13 12:32:00 EST 2020: Catherine Candid (CCandid123) <--> Ralph Goodmann (RGoodmann45)
+}
+Connections on Twitter {
+   Mon Feb 10 09:45:13 EST 2020: Catherine Candid (CCandid123) <--> Bennedict Cornfield (BCornfield654)
+   Mon Feb 10 10:35:00 EST 2020: Ralph Goodmann (RGoodmann45) <--> Patty Smith (PSmith4567)
+}
+
